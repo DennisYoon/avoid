@@ -9,6 +9,9 @@
 > ![game over!](imgs_for_readme/game%20over.png)
 > game over!
 
+## 🎇 about
+`AVOID` is my first serious web project and web game since 2021.08.26. Press arrow keys in order to avoid squares falling from the sky and triangular thorns crossing the floor!!(●'◡'●)
+
 ## 🔎 references
 1. [Black Han Sans](https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap)
 2. [p5.js](https://p5js.org/)
