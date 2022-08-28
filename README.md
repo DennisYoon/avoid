@@ -1,6 +1,13 @@
-<img src="https://img.shields.io/badge/version-1.0.0-red" />
+<img src="https://img.shields.io/badge/version-1.1.0-red" />
 
 # avoid!
+link : 🔗[dennisyun.github.io/avoid/](dennisyun.github.io/avoid/)
+
+## ⛓ versions
+|version|contents|
+|---|---|
+|1.0.0|all in index.html|
+|1.1.0|divided into html, css, js|
 
 ## 📺 game screens
 > ![gaming...](imgs_for_readme/gaming.png)
