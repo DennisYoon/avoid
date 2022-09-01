@@ -10,10 +10,10 @@ link : 🔗[dennisyun.github.io/avoid/](dennisyun.github.io/avoid/)
 |1.1.0|divided into html, css, js|
 
 ## 📺 game screens
-> ![gaming...](imgs_for_readme/gaming.png)
+> ![gaming...](.github/gaming.png)
 > gaming...
 
-> ![game over!](imgs_for_readme/game%20over.png)
+> ![game over!](.github/game%20over.png)
 > game over!
 
 ## 🎇 about
